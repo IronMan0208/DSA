@@ -1,0 +1,6 @@
+1. WAF to calculate sum and product of all numbers on an array. = Done 
+2. WAF the max and min number of an array. = Done
+3. WAF to print all the number unique value in an array.
+4. WAF to print intersection of 2 array.
+5. WAF to print second largest element in the given arrra. = Done
+6. WAF to print reverse array using vector and print all element.
